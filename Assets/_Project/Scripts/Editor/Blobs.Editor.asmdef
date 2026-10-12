@@ -1,0 +1,16 @@
+{
+  "name": "Blobs.Editor",
+  "rootNamespace": "Blobs.Editor",
+  "references": [
+    "Blobs.Runtime",
+    "Unity.InputSystem",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": false,
+  "noEngineReferences": false
+}
